@@ -1,0 +1,3 @@
+[submodule "vecx"]
+	path = vecx
+	url = git@github.com:jbmorley/vecx.git

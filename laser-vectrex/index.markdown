@@ -1,12 +1,8 @@
-I've been a fan of the [Vectrex](https://en.wikipedia.org/wiki/Vectrex) video game console for many years. It's a wonderful real-world example of vector-based displays; a fantastic dead-end technology that were very much pushed to their limits in the games consoles of the 80s. They draw by simply moving the electron beam of a CRT along a path (a lot like an Etch A Sketch), leading to wonderfully crisp images--the kind of thing that wasn't at all possible until Retina displays.
+
 
 ![Minestorm on a Vectrex](minestorm01.png)
 
-<p class="caption">Minestorm (aka. Asteroids) on the Vectrex, demonstrating the beautifully crisp images.</p>
-
----
-
-[Jonty](http://jonty.co.uk) gave me some great pointers for getting started:
+Jonty gave me some great pointers for getting started:
 
 > Depends what it's for. Most people I know have built their own as you can do _way_ more with them. I helped someone with a [LaserShark](http://www.macpod.net/electronics/lasershark/lasershark.php) based one about a year ago.
 
@@ -43,5 +39,3 @@ I've been a fan of the [Vectrex](https://en.wikipedia.org/wiki/Vectrex) video ga
 ![](set audio.jpg)
 
 ![](board.jpg)
-
-Now, bear in mind this was the first time I'd really looked serious at circuit diagrams since high school.

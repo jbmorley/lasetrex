@@ -1,6 +1,8 @@
 
 
-![Minestorm on a Vectrex](minestorm01.png)
+![Minestorm on a Vectrex](images/minestorm01.png)
+
+# Notes
 
 Jonty gave me some great pointers for getting started:
 
@@ -28,14 +30,15 @@ Jonty gave me some great pointers for getting started:
 
 ‘Lasers capable of TTL or 0-5v analog modulation’
 
-![](20K.JPG)
+![](images/20K.JPG)
 
-![](20150311.jpg)
+![](images/20150311.jpg)
 
-![](20150424.jpg)
+![](images/20150424.jpg)
 
-![](Mainboard20160509English.jpg)
+![](images/Mainboard20160509English.jpg)
 
-![](set audio.jpg)
+![](images/set audio.jpg)
 
-![](board.jpg)
+![](images/board.jpg)
+

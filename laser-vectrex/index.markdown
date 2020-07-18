@@ -1,0 +1,47 @@
+I've been a fan of the [Vectrex](https://en.wikipedia.org/wiki/Vectrex) video game console for many years. It's a wonderful real-world example of vector-based displays; a fantastic dead-end technology that were very much pushed to their limits in the games consoles of the 80s. They draw by simply moving the electron beam of a CRT along a path (a lot like an Etch A Sketch), leading to wonderfully crisp images--the kind of thing that wasn't at all possible until Retina displays.
+
+![Minestorm on a Vectrex](minestorm01.png)
+
+<p class="caption">Minestorm (aka. Asteroids) on the Vectrex, demonstrating the beautifully crisp images.</p>
+
+---
+
+[Jonty](http://jonty.co.uk) gave me some great pointers for getting started:
+
+> Depends what it's for. Most people I know have built their own as you can do _way_ more with them. I helped someone with a [LaserShark](http://www.macpod.net/electronics/lasershark/lasershark.php) based one about a year ago.
+
+> Basically a LaserShark, a laser (with blanking), and two high-PPS galvo's will do you.
+
+> But you can buy things off the shelf too.
+
+> You'd probably want an ILDA compliant laser
+
+> And pps (points-per-second) is the measure of how fast the galvos are, and thus how complex the vector patterns it can sustain are too
+
+> You can build a decent one for ~£250
+
+> Oh, and you want blanking because otherwise you'll just draw a continuous line instead of separate shapes. You tend to damage the laser by switching it really fast, so an LCD shutter is in the beamline instead.
+
+> Oscilloscope: “Rigol DS1024 if you want large and fancy, DSO Nano if you want pocket sized and less fancy.”
+
+> “Mount it all on a bit of aluminium plate and jobs a goodun”
+
+> “Laser projectors are pretty easy to build though, high-ppi galvos from eBay, laser with blanking from aliexpress (or eBay), lasershark board.”
+
+[GitHub - jhawthorn/vecx: vecx vectrex emulator - sdl port](https://github.com/jhawthorn/vecx)
+
+‘Lasers capable of TTL or 0-5v analog modulation’
+
+![](20K.JPG)
+
+![](20150311.jpg)
+
+![](20150424.jpg)
+
+![](Mainboard20160509English.jpg)
+
+![](set audio.jpg)
+
+![](board.jpg)
+
+Now, bear in mind this was the first time I'd really looked serious at circuit diagrams since high school.

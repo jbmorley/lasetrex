@@ -38,7 +38,7 @@ Jonty gave me some great pointers for getting started:
 
 ![](images/Mainboard20160509English.jpg)
 
-![](images/set audio.jpg)
+![](images/set-audio.jpg)
 
 ![](images/board.jpg)
 

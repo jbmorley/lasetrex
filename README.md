@@ -1,4 +1,6 @@
-# lasetrex
+# Lasetrex
+
+Laser projector based Vectrex console.
 
 ![Minestorm on a Vectrex](images/minestorm01.png)
 
